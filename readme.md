@@ -1,2 +1,2 @@
 #Devops-with-Docker
-Personal repo to keep track of Devops homework
+Personal repo to keep track of Devops homework.
