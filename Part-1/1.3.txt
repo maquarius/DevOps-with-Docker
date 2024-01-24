@@ -1,0 +1,3 @@
+I used: docker exec -it elastic_vaughan bash
+to enter the running ubuntu container. Which allowed me to retreive the following message fro text.log:
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'

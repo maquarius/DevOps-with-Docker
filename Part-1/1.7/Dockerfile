@@ -16,4 +16,4 @@ COPY curlish.sh .
 RUN chmod +x curlish.sh
 
 # When running docker run the command will be ./hello.sh
-CMD ./curlish.sh
+ENTRYPOINT [ "./curlish.sh" ]
